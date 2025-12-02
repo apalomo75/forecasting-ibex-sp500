@@ -1,0 +1,7 @@
+object_name,exported,file_path
+vol_panel,False,
+drawdown_panel,False,
+tailrisk_panel,False,
+beta_panel,False,
+corr_panel,False,
+analysis_panel,True,/home/apalo/projects/ibex-sp500-forecasting/powerbi_presentation/datasets/analysis_panel.csv

@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+yfinance
+prophet
+arch
+xgboost
+tqdm
